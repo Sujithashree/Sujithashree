@@ -45,6 +45,31 @@
 </p>
 
 ---
+## 📈 Analytics & GitHub Activity Graph
+
+<div align="center">
+
+### **Contribution Snake Animation**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujithashree/Sujithashree/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujithashree/Sujithashree/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Sujithashree/Sujithashree/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
+
+### **Live Contribution Chart**
+<img src="https://ghchart.rshah.org/005B94/Sujithashree" alt="Sujithashree's Github Contribution Chart" width="100%" />
+
+<br/><br/>
+
+### **GitHub Stats & Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujithashree&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujithashree&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+</div>
 
 <h3 align="left">⚡ Key AI Projects:</h3>
 
